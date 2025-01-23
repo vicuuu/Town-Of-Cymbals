@@ -1,0 +1,36 @@
+{
+    "hats": [
+        {
+            "resource": "piwo.png",
+            "name": "Piwko",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "zabka.png",
+            "name": "Zabka",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "pge.png",
+            "name": "PGE",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "actually.png",
+            "name": "Actually",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+    ]
+}
