@@ -57,8 +57,40 @@
             "modpack": "TOC"
         },
         {
+            "resource": "policjant.png",
+            "name": "Policjant",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
             "resource": "saint.png",
             "name": "Swiety",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "skala.png",
+            "name": "Skala",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "wozek.png",
+            "name": "Wozek",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "kaczor.png",
+            "name": "Kaczor",
             "author": "TOU",
             "condition": "None",
             "package": "Town Of Us",
