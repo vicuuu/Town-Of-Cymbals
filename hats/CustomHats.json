@@ -25,6 +25,38 @@
             "modpack": "TOC"
         },
         {
+            "resource": "dbschenker.png",
+            "name": "DB Schenker",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "mesko.png",
+            "name": "Mesko",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "biedronka.png",
+            "name": "Biedronka",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
+            "resource": "epet.png",
+            "name": "Vaper",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+        {
             "resource": "saint.png",
             "name": "Swiety",
             "author": "TOU",
