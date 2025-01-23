@@ -25,12 +25,12 @@
             "modpack": "TOC"
         },
         {
-            "resource": "actually.png",
-            "name": "Actually",
-            "author": "Cymbalownia",
+            "resource": "saint.png",
+            "name": "Swiety",
+            "author": "TOU",
             "condition": "None",
-            "package": "Town Of Cymbals",
-            "modpack": "TOC"
+            "package": "Town Of Us Hats",
+            "modpack": "TOU"
         },
     ]
 }
