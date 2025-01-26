@@ -108,5 +108,29 @@
             "package": "Town Of Us",
             "modpack": "TOU"
         },
+        {
+            "resource": "czapeczka.png",
+            "name": "Czapeczka",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "milord.png",
+            "name": "Milord",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "kloszard.png",
+            "name": "Kloszard",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
     ]
 }
