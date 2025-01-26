@@ -73,8 +73,8 @@
             "modpack": "TOC"
         },
         {
-            "resource": "akordeoniarz.png",
-            "name": "Akordeoniarz",
+            "resource": "akordeonowy.png",
+            "name": "Akordeonowy",
             "author": "Cymbalownia",
             "condition": "None",
             "package": "Town Of Cymbals",
