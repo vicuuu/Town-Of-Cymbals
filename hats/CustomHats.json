@@ -88,6 +88,14 @@
             "package": "Town Of Cymbals",
             "modpack": "TOC"
         },
+        {
+            "resource": "tuna.png",
+            "name": "TunczykOficjalnie",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
         
 
 
