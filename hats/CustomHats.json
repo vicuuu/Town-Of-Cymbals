@@ -72,6 +72,15 @@
             "package": "Town Of Cymbals",
             "modpack": "TOC"
         },
+        {
+            "resource": "dres2.png",
+            "name": "Dres2",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+
 
         
         {
