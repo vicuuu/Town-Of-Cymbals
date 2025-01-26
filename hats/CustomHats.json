@@ -80,6 +80,14 @@
             "package": "Town Of Cymbals",
             "modpack": "TOC"
         },
+        {
+            "resource": "alus.png",
+            "name": "AlusOficjalnie",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
         
 
 
