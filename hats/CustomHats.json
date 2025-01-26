@@ -65,6 +65,17 @@
             "modpack": "TOC"
         },
         {
+            "resource": "dres.png",
+            "name": "Dres",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
+
+        
+        // Old
+        {
             "resource": "saint.png",
             "name": "Swiety",
             "author": "TOU",
