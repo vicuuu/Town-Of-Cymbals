@@ -112,6 +112,14 @@
             "package": "Town Of Cymbals",
             "modpack": "TOC"
         },
+        {
+            "resource": "wisnia.png",
+            "name": "Wisnia",
+            "author": "Cymbalownia",
+            "condition": "None",
+            "package": "Town Of Cymbals",
+            "modpack": "TOC"
+        },
         
 
 
