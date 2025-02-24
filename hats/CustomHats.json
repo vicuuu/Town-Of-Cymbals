@@ -180,5 +180,21 @@
             "package": "Town Of Us",
             "modpack": "TOU"
         },
+        {
+            "resource": "chmurka.png",
+            "name": "Chmurka",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
+        {
+            "resource": "diobel.png",
+            "name": "Diobel",
+            "author": "TOU",
+            "condition": "None",
+            "package": "Town Of Us",
+            "modpack": "TOU"
+        },
     ]
 }
